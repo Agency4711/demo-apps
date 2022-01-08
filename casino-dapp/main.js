@@ -1,5 +1,5 @@
-const serverUrl = "INSERT_SERVER_URL"; //Server url from moralis.io
-const appId = "INSERT_APP_ID"; // Application id from moralis.io
+const serverUrl = "https://afkp2aajalfu.usemoralis.com:2053/server"; //Server url from moralis.io
+const appId = "qyVs8XNvweG7INm0RPrjKsdZPStSpTGm3ODvQFpl"; // Application id from moralis.io
 Moralis.start({ serverUrl, appId });
 
 const CONTRACT_ADDRESS = "INSERT_CONTRACT_ADDRESS";
